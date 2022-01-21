@@ -1,0 +1,10 @@
+For finviz_part_2, look through each sheet and check
+off the standards, then return a 1 or 0 depending on 
+if it checks or not to a dictionary with the ticker
+and the corresponding 1 or 0 value. Then similarly to 
+the tradingview scraper, rank the tickers by who has 
+the largest number rating.
+
+Tonight, research different index readings and their
+considered 'good' values. Write out on paper, then 
+convert into funciton/idk something else. 
